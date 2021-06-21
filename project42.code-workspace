@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Docking-undocking"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New Folder With Items"
+	}
+}
